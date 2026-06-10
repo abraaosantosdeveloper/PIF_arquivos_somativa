@@ -22,8 +22,7 @@ Resolução da atividade da disciplina, cobrindo manipulação de arquivos biná
 Pré-requisito: GCC instalado.
 
 ```bash
-gcc -Wall -o contas contas.c
-./contas
+gcc contas.c -o contas
 ```
 
 ---
